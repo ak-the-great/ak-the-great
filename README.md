@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me AK.
 
 Software Engineering Undergraduate @ SUSL
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://github.com/ak-the-great/ak-the-great/assets/140631179/12e4e26a-c2fc-44a0-a765-70f0ccf423e9">
 - 🔧 Entrepreneur & Tech Enthusiast.
 - ✨ I love to design and express creativity.
 - 🎨 Proficient in Photoshop & Figma, passionate about creating visually appealing content.
